@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Peter Pan",
+    "author": "Tizio",
+    "genre": "Narrativa",
+    "price": "9,90"
+  },
+  {
+    "title": "Spider Man",
+    "author": "Caio",
+    "genre": "Narrativa",
+    "price": "8,90"
+  },
+  {
+    "title": "Holly & Benji",
+    "author": "Sempronio",
+    "genre": "Sport",
+    "price": "8,99"
+  },
+
+  {
+    "title": "Batman",
+    "author": "Mevio",
+    "genre": "Fantasy",
+    "price": "9,98"
+  }
+]
